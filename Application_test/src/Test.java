@@ -5,8 +5,8 @@ public class Test {
 		return a+b;
 	}
 	public static void main(String[] args) {
-		System.out.print("Hello m");
-		System.out.print("bye m");
+		System.out.println("Hello m");
+		System.out.println("bye m");
 		
 	}
 
